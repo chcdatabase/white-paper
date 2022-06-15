@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Title
 nav_order: 1
 description: "The China Historical Christian Database"
 permalink: /
