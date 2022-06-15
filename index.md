@@ -6,10 +6,10 @@ description: "The China Historical Christian Database"
 permalink: /
 ---
 
-# China Historical Christian Database: Mapping the Spatial and Social Networks of Christianity in China, 1550-1950.
+# White Paper
 {: .fs-9 }
 
-White Paper
+China Historical Christian Database: Mapping the Spatial and Social Networks of Christianity in China, 1550-1950.
 {: .fs-6 .fw-300 }
 
 ---
