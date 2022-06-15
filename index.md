@@ -14,14 +14,12 @@ China Historical Christian Database: Mapping the Spatial and Social Networks of 
 
 ---
 
-National Endowment for the Humanities
-
+National Endowment for the Humanities  
 Office of Digital Humanities
 
-HAA-XXXXXX-XX
+Digital Humanities Advancement Grant, Level II  
+HAA-280992-21
 
-Daryl Ireland, Eugenio Menegon, & Alex Mayfield
-
-Boston University
-
+Daryl Ireland, Eugenio Menegon, & Alex Mayfield  
+Boston University  
 June 22, 2022

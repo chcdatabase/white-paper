@@ -8,17 +8,26 @@ nav_order: 2
 
 ---
 
-## Goals
+## Summary
 
-The CHCD is a graph database that focuses on geographic and relational connections. It utilizes the open-source and industry leading graph database platform [Neo4j](https://neo4j.com/). This section provides information on graph database basics and the general design of the database itself.
+"China Historical Christian Database: Mapping the Spatial and Social Networks of Christianity in China, 1550-1950" is a project that was generously funded by the National Endowment for the Humanities (September 1, 2021 - August 31, 2022).
 
----
-
-## Goals
-
-The CHCD is a graph database that focuses on geographic and relational connections. It utilizes the open-source and industry leading graph database platform [Neo4j](https://neo4j.com/). This section provides information on graph database basics and the general design of the database itself.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et fermentum ante. Quisque quis elit faucibus, vulputate lacus sit amet, volutpat dolor. Suspendisse pellentesque accumsan elit nec congue. Nullam malesuada nisi sit amet libero faucibus laoreet. Nulla fringilla feugiat metus, a viverra magna. Nulla cursus scelerisque odio ac auctor. Maecenas nec eleifend sem, at porttitor enim.
 
 ---
 
-## Outcomes
-Graph databases mimic the natural relationships that exist in the real world; their structures often look like what you might draw on a white board when trying to describe how things are related. It is helpful to keep this basic framework in mind when devising spreadsheets for data collection.
+## Goals
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et fermentum ante. Quisque quis elit faucibus, vulputate lacus sit amet, volutpat dolor. Suspendisse pellentesque accumsan elit nec congue. Nullam malesuada nisi sit amet libero faucibus laoreet. Nulla fringilla feugiat metus, a viverra magna. Nulla cursus scelerisque odio ac auctor. Maecenas nec eleifend sem, at porttitor enim.
+
+---
+
+## Collaborators
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et fermentum ante. Quisque quis elit faucibus, vulputate lacus sit amet, volutpat dolor. Suspendisse pellentesque accumsan elit nec congue. Nullam malesuada nisi sit amet libero faucibus laoreet. Nulla fringilla feugiat metus, a viverra magna. Nulla cursus scelerisque odio ac auctor. Maecenas nec eleifend sem, at porttitor enim.
+
+---
+
+## Deliverables
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et fermentum ante. Quisque quis elit faucibus, vulputate lacus sit amet, volutpat dolor. Suspendisse pellentesque accumsan elit nec congue. Nullam malesuada nisi sit amet libero faucibus laoreet. Nulla fringilla feugiat metus, a viverra magna. Nulla cursus scelerisque odio ac auctor. Maecenas nec eleifend sem, at porttitor enim.
