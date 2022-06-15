@@ -6,7 +6,7 @@ description: "The China Historical Christian Database"
 permalink: /
 ---
 
-# Data Documentation
+# White Paper
 {: .fs-9 }
 
 White Paper
@@ -15,5 +15,7 @@ White Paper
 ---
 
 Alex Mayfield
+
 Daryl Ireland
+
 Eugenio Menegon

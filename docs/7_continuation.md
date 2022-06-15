@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Continuation & Long-term Impact
-nav_order: 2
+title: Continuation
+nav_order: 7
 ---
 
-# Project Continuation & Long-term Impact
+# Project Continuation
 {: .no_toc }
 
 <details open markdown="block">

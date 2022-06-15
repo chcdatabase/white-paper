@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Evaluation & Impact
-nav_order: 2
+title: Impact
+nav_order: 8
 ---
 
-# Project Evaluation & Impact
+# Project Impact
 {: .no_toc }
 
 <details open markdown="block">
