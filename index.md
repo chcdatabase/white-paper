@@ -6,7 +6,7 @@ description: "The China Historical Christian Database"
 permalink: /
 ---
 
-# White Paper
+# China Historical Christian Database: Mapping the Spatial and Social Networks of Christianity in China, 1550-1950.
 {: .fs-9 }
 
 White Paper
@@ -14,8 +14,14 @@ White Paper
 
 ---
 
-Alex Mayfield
+National Endowment for the Humanities
 
-Daryl Ireland
+Office of Digital Humanities
 
-Eugenio Menegon
+HAA-XXXXXX-XX
+
+Daryl Ireland, Eugenio Menegon, & Alex Mayfield
+
+Boston University
+
+June 22, 2022
