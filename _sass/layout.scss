@@ -55,7 +55,7 @@
   background-color: $sidebar-color;
 
   @include mq(md) {
-    display: flex;
+    display: none;
     justify-content: space-between;
     height: $header-height;
     background-color: $body-background-color;
@@ -105,7 +105,7 @@
   @include mq(md) {
     height: $header-height;
     max-height: $header-height;
-    border-bottom: $border $border-color;
+    border-bottom: $border $red-400;
   }
 }
 
