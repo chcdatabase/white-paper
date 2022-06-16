@@ -4,7 +4,7 @@ title: Activities
 nav_order: 4
 ---
 
-# Project Activities
+# Activities
 
 ---
 

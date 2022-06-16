@@ -4,7 +4,7 @@ title: Outcomes
 nav_order: 5
 ---
 
-# Project Outcomes
+# Outcomes
 
 ---
 

@@ -4,7 +4,7 @@ title: Background
 nav_order: 3
 ---
 
-# Project Background
+# Background
 
 ---
 

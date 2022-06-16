@@ -4,11 +4,11 @@ title: Summary
 nav_order: 2
 ---
 
-# Project Summary
+# Summary
 
 ---
 
-## Summary
+## Narrative Summary
 
 "The China Historical Christian Database: Mapping the Spatial and Social Networks of Christianity in China, 1550-1950" is a project that was generously funded by the National Endowment for the Humanities (September 1, 2021 - August 31, 2022). The China Historical Christian Database (CHCD) is hosted by the [Center for Global Christianity and Mission](https://www.bu.edu/cgcm/) at Boston University.
 
@@ -18,7 +18,25 @@ More than a dataset, however, the CHCD team has also developed an online platfor
 
 ---
 
-## Links
+## Project Team
+
+### Core Team Members
+* Eugenio Menegon, Boston University
+* Daryl Ireland, Boston University
+* Alex Mayfield, Asbury University
+
+### Project Collaborators
+* Xian Liu, Renmin University
+* Alexandrs Dmitrenko, Heidelberg University
+
+### Project Associates
+* Raissa De Gruttola, University of Perugia
+* Matthew Preston, Anderson University
+* Amanda Clark, Whitworth University
+
+---
+
+## Project Links
 
 * [Project Page](https://chcdatabase.com/)
 * [Online Platform](https://data.chcdatabase.com/)

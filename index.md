@@ -9,17 +9,25 @@ permalink: /
 # White Paper
 {: .fs-9 }
 
-China Historical Christian Database: Mapping the Spatial and Social Networks of Christianity in China, 1550-1950.
+China Historical Christian Database: Mapping the Spatial and Social Networks of Christianity in China, 1550-1950  
 {: .fs-6 .fw-300 }
 
 ---
 
-National Endowment for the Humanities  
-Office of Digital Humanities
+National Endowment for the Humanities
 
-Digital Humanities Advancement Grant, Level II  
-HAA-280992-21
+Office of Digital Humanities  
 
-Daryl Ireland, Eugenio Menegon, & Alex Mayfield  
-Boston University  
+---
+
+Digital Humanities Advancement Grant, Level II
+
+HAA-280992-21  
+
+---
+
+Daryl Ireland, Eugenio Menegon, & Alex Mayfield
+
+Boston University
+
 June 22, 2022
