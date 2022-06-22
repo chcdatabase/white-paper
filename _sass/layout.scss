@@ -152,12 +152,15 @@
 
 @if variable-exists(logo) {
   .site-logo {
-    width: calc(100vw - 105px);
+    width: calc(100vw - 108px);
     height: 100%;
     background-image: url($logo);
     background-repeat: no-repeat;
     background-position: left center;
     background-size: contain;
+    @include mq(md) {
+      width: 100% !important;
+    }
   }
 }
 
