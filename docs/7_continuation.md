@@ -13,7 +13,7 @@ nav_order: 7
 The project team has already identified key avenues for continuing the work of the project in the ensuing months and years.
 
 ### Data Collection
-With a few notable exceptions, the current dataset lean heavily on Western and Protestant sources. In addition several major religious groups are still missing almost entirely from the database. Thus, the project team has identified several major groups and sources which will populate the next major update to the database. In no particular order, these groups are:
+The current dataset leans heavily on Western and Protestant sources. Notable exceptions to this trend include Russian Orthodox Missions, the Society of Jesus, the Maryknoll Fathers and Sisters, the PIME Fathers, and the Passionists. Still, several major religious groups are still missing or are almost entirely from the database. Thus, the project team has identified several major groups and sources which will populate the next major update to the database. In no particular order, these groups are:
 * Chinese Literati
 * Chinese Protestant Pastors
 * Franciscans
